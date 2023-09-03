@@ -1,0 +1,15 @@
+/* Align the text of the h1 element */
+h1 {
+  text-align: center;
+}
+
+.container{
+  background-color: rgb(255, 255, 255);
+  padding: 10px, 0;
+}
+
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+}
